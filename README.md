@@ -9,3 +9,5 @@
 🏅 Solely based on MLB preformance which area of the world should teams focus on when devloping players?
 
 🧐 This, is an analysis comparing US vs Latin Born MLB Players
+
+See the Tableau Presentation at this link: https://public.tableau.com/app/profile/hillel1716/viz/LatinvsUSBaseballPlayers/Story1?publish=yes
